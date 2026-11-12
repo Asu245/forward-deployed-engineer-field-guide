@@ -16,3 +16,7 @@ npm run docs:dev
 GitHub Actions builds `docs/` with VitePress and publishes it to GitHub Pages on pushes to `main`.
 
 Research snapshot: 12 November 2026. See [method and limits](docs/method.md).
+
+## Live-site review
+
+The published pages were reviewed for candidate reading flow and navigation on 12 November 2026. The findings are recorded in [issue #1](https://github.com/Asu245/forward-deployed-engineer-field-guide/issues/1).
